@@ -1,0 +1,12 @@
+C:\Users\elpekaan\Desktop\Rea_Akademi\Dersler\C#\CRUD_Operations\CRUD_Operations\bin\Debug\PersonalDB.mdf
+C:\Users\elpekaan\Desktop\Rea_Akademi\Dersler\C#\CRUD_Operations\CRUD_Operations\bin\Debug\PersonalDB_log.ldf
+C:\Users\elpekaan\Desktop\Rea_Akademi\Dersler\C#\CRUD_Operations\CRUD_Operations\bin\Debug\CRUD_Operations.exe.config
+C:\Users\elpekaan\Desktop\Rea_Akademi\Dersler\C#\CRUD_Operations\CRUD_Operations\bin\Debug\CRUD_Operations.exe
+C:\Users\elpekaan\Desktop\Rea_Akademi\Dersler\C#\CRUD_Operations\CRUD_Operations\bin\Debug\CRUD_Operations.pdb
+C:\Users\elpekaan\Desktop\Rea_Akademi\Dersler\C#\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.csproj.AssemblyReference.cache
+C:\Users\elpekaan\Desktop\Rea_Akademi\Dersler\C#\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.Form1.resources
+C:\Users\elpekaan\Desktop\Rea_Akademi\Dersler\C#\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.Properties.Resources.resources
+C:\Users\elpekaan\Desktop\Rea_Akademi\Dersler\C#\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.csproj.GenerateResource.cache
+C:\Users\elpekaan\Desktop\Rea_Akademi\Dersler\C#\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.csproj.CoreCompileInputs.cache
+C:\Users\elpekaan\Desktop\Rea_Akademi\Dersler\C#\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.exe
+C:\Users\elpekaan\Desktop\Rea_Akademi\Dersler\C#\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.pdb
